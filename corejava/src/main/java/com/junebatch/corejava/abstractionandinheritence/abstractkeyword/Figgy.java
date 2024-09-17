@@ -3,8 +3,6 @@ package com.junebatch.corejava.abstractionandinheritence.abstractkeyword;
 public abstract class Figgy {
 
 
-
-
     public void takeDataFromResturants(){
         System.out.println("Data taken from restuarants");
     }
@@ -19,7 +17,7 @@ public abstract class Figgy {
 
 
     public void notifyDeliveryPartner(){
-        System.out.println("   Delivery partner notified");
+        System.out.println("Delivery partner notified");
     }
 
 

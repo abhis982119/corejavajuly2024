@@ -2,7 +2,7 @@ package com.junebatch.corejava.oops.polymorphism.runtimepolymoriphism.interviewq
 
 public class A {
 
-    public void m1(){
+    public void m1() {
         System.out.println("A-m1()");
     }
 }
